@@ -1,0 +1,23 @@
+.whatsapp-button {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    background: #4caf50;
+    border: none;
+    overflow: hidden;
+    border-radius: 5px;
+    color: #ffffff;
+    margin: 15px auto;
+}
+.whatsapp-button .whatsapp-icon {
+    padding: 10px 15px;
+    background: #2e8232;
+}
+.whatsapp-button span {
+    padding: 0 18px;
+    line-height: 0;
+}
+.whatsapp-button svg {
+    width: auto;
+    height: 26px;
+}
